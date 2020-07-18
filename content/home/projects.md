@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-1. PDL**
+1. **PDL**
    - This project proposes an efficient PBD-based (Pairwise Block Design) Data Layout, PDL, to speed up data repair for single node failure in mixed erasure-coded distributed storage systems. It achieves almost uniform distribution, and higher repair performance due to reduced cross-rack traffic and load balance of read and write I/Os during repair process.
    - I design the data distribution method, and the corresponding failure recovery scheme. And I also implement them in Hadoop 3.1.1. 
 
