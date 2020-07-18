@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-Liangliang Xu is a Ph.D. candidate in the School of Computer Science and Technology under the supervision of Prof. Yinlong Xu and associate Prof. Min Lyu at University of Science and Technology of China. 
+Liangliang Xu is a Ph.D. candidate in the School of Computer Science and Technology under the supervision of Prof. [Yinlong Xu](https://cs.ustc.edu.cn/2010/0614/c3050a23892/page.htm)  and associate Prof. [Min Lyu](https://cs.ustc.edu.cn/2019/0916/c3049a391445/page.htm) at University of Science and Technology of China. 
 
 He is interested in distributed storage systems, data recovery and erasure coding, e.g. designing effective data layouts, efficient failure recovery algorithms, and practical erasure code schemes, and further implementing them in distributed storage systems. 
 
