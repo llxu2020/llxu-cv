@@ -68,7 +68,7 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+[Full Publication List]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
 1. **A note on one weight and two weight projective Z<sub>4</sub>-codes.**   
