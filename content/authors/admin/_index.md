@@ -31,7 +31,7 @@ education:
     institution: University of Science and Technology of China
     year: 2017.09 - Now
   - course: B.S. degree, Information and Computer Science
-    institution: Ahhui University
+    institution: Anhui University
     year: 2013.09 - 2017.06
 
 
