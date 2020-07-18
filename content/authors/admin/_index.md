@@ -25,14 +25,15 @@ interests:
 - Data Recovery
 - Erasure Coding
 
-education:
-  courses:
-  - course: Working toward the Ph.D. degree in Computer Science(Advisors: Yinlong Xu & Min Lyu)
-	 institution: University of Science and Technology of China
-	 year: 2017.09 - Now
-  - course: B.S. degree, Information and Computer Science(GPA: 3.69/4.0)
-    institution: Ahhui University
-    year: 2013.09 - 2017.06
+[[education.courses]]
+  course = " Working toward the Ph.D. degree in Computer Science(Advisors-- Yinlong Xu & Min Lyu)"
+  institution = " University of Science and Technology of China
+  year: 2017.09 - Now
+
+[[education.courses]]
+ course = " B.S. degree, Information and Computer Science(GPA: 3.69/4.0)"
+ institution = "Ahhui University"
+ year: 2013.09 - 2017.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
