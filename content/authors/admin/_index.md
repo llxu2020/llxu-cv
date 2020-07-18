@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Liangliang Xu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate of Storage Systems
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Science and Technology of China
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed storage system, data recovery and erasure coding.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distributed Storage System
+- Data Recovery
+- Erasure Coding
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Working toward the Ph.D. degree in Computer Science(Advisors: Yinlong Xu & Min Lyu)
+	 institution: University of Science and Technology of China
+	 year: 2017.09 - Now
+  - course: B.S. degree, Information and Computer Science(GPA: 3.69/4.0)
+    institution: Ahhui University
+    year: 2013.09 - 2017.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
