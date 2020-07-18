@@ -70,6 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liangliang Xu is a Ph.D. candidate in the School of Computer Science and Technology under the supervision of Prof. Yinlong Xu and associate Prof. Min Lyu at University of Science and Technology of China. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is interested in distributed storage systems, data recovery and erasure coding, e.g. designing effective data layouts, efficient failure recovery algorithms, and practical erasure code schemes, and further implementing them in distributed storage systems. 
+
+He has published several papers in top conferences and journals of storage systems, including INFOCOM, IPDPS, USENIX HotStorage, TIT and TPDS.
+
+ 
