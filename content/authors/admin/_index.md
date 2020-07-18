@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: Working toward the Ph.D. degree in Computer Science, Advisors Yinlong Xu & Min Lyu
+  - course: Working toward the Ph.D. degree in Computer Science
     institution: University of Science and Technology of China
     year: 2017.09 - Now
-  - course: B.S. degree, Information and Computer Science, GPA 3.69/4.0
+  - course: B.S. degree, Information and Computer Science
     institution: Ahhui University
     year: 2013.09 - 2017.06
 
