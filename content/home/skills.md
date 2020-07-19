@@ -21,16 +21,18 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "aws"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Distributed Storage Systems"
+  description = "80%"
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Python"
+  description = "50%"  
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
