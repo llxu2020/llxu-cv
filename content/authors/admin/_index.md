@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:llxuctt@gmail.com".
+  link:  "mailto:llxuctt@gmail.com".
 - icon: weixin
   icon_pack: fab
   link: files/wechat.jpg
