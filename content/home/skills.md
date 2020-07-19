@@ -22,13 +22,13 @@ subtitle = ""
 
 [[feature]]
   icon = "aws"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Distributed Storage Systems"
   description = "80%"
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "50%"  
 
