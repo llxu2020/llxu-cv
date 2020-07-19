@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "server"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "HDFS"
   description = "80%"
 
