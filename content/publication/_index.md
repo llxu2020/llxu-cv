@@ -32,7 +32,7 @@ header:
    **Liangliang Xu**, Min Lyu, Zhipeng Li, Yongkun Li and Yinlong Xu.
     IEEE Transactions on Parallel and Distributed Systems (TPDS 2020), 31.10: 2248-2262.
 
-5. **SelectiveEC: Selective Reconstruction in Erasure-coded Storage Systems**
+5. **SelectiveEC: Selective Reconstruction in Erasure-coded Storage Systems**.
    **Liangliang Xu**, Min Lyu, Qiliang Li, Lingjiang Xie and Yinlong Xu.
    12th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage 2020) accepted.
    (AR: 26/64 = 40.6%)
