@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "c/c++"
+  name = "C/C++"
   description = "70%"  
 
 [[feature]]
