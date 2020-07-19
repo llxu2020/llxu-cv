@@ -30,7 +30,13 @@ subtitle = ""
   icon = "linux"
   icon_pack = "fab"
   name = "Linux Shell"
-  description = "60%"  
+  description = "80%"  
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fab"
+  name = "c/c++"
+  description = "70%"  
 
 [[feature]]
   icon = "python"
