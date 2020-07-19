@@ -15,16 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "server"
+  icon_pack = "fab"
+  name = "HDFS"
+  description = "80%"
+
+[[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "JAVA"
   description = "80%"
 
 [[feature]]
-  icon = "aws"
+  icon = "linux"
   icon_pack = "fab"
-  name = "Distributed Storage Systems"
-  description = "80%"
+  name = "Linux Shell"
+  description = "60%"  
 
 [[feature]]
   icon = "python"
@@ -32,7 +38,11 @@ subtitle = ""
   name = "Python"
   description = "50%"  
 
-
+[[feature]]
+  icon = ":smile:"
+  icon_pack = "emoji"
+  name = "Emojiness"
+  description = "100%"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
